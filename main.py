@@ -1,2 +1,2 @@
 ## Readme
-"hello world"
+print("hello world")
